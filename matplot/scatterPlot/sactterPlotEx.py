@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-'''
+
 # Study Hours Effects Exam Scores (True)
 study_hours = [1,2,3,4,5,6,7,8]
 exam_score = [55,60,65,70,72,85,88,95]
@@ -25,7 +25,7 @@ plt.ylabel("Fuel Efficiency (km/L)")
 plt.grid(axis='both',linestyle = '--')
 plt.show()
 
-'''
+
 # Multiple Groups Plotting
 Dog_weight = [20,25,30,35,40]
 Dog_height = [50,55,60,65,70]

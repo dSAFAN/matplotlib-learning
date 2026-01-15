@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #Simple vertical bar graph
-'''x = ["Action","Comedy","Drama","Sci-Fi","Horror"]
+x = ["Action","Comedy","Drama","Sci-Fi","Horror"]
 y = [150,110,85,130,60]
 plt.xlabel("Genre")
 plt.ylabel("Tickest Sold")
@@ -58,7 +58,7 @@ plt.xlabel("Subjects")
 plt.ylabel("Average Marks")
 
 plt.legend(loc = 'best')
-plt.show() '''
+plt.show() 
 
 Teams = ["Team A" , "Team B" , "Team C"]
 attackPoints = [40,55,30]
