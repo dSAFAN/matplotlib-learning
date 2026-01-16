@@ -14,4 +14,5 @@ plt.pie(
 plt.legend(title = "Fruit Types" , loc ="upper left" , bbox_to_anchor=(1,1))
 plt.tight_layout(rect=[0,0,1,0.95])
 plt.title("Pie Challange 3")
+plt.savefig("Pie_Challange_3.png")
 plt.show()
